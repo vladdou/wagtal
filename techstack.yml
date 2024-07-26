@@ -1,0 +1,20 @@
+repo_name: vladdou/wagtal
+report_id: 47f5950670ce46983586adf8a156818c
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:31:04+00:00'
+requested_by: vladdou
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/wagtal
+  detection_source: Repo Metadata
